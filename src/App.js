@@ -1,5 +1,7 @@
 import logo from './logo.svg';
-import 
+import './Components/Header.js'
+import './Components/Features.js'
+import './Components/HeroSection.js'
 import './App.css';
 
 function App() {
